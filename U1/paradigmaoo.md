@@ -31,6 +31,10 @@ Ejemplo:
 
 ![image.png](https://www.lifeder.com/wp-content/uploads/2020/04/Herencia-en-programaci%C3%B3n-Pluke-CC0-Creative-Commons-CC0-1.0-Universal-Public-Domain.jpg)
 
+En este ejemplo se muestra de mejor manera el como funciona la hernecia, se inicia de manea general la clase con sus atributos en este caso se tiene la idea de "vehiculo", de ahi se pueden derivar de otros tipos de vehiculos pero que a su vez tienen caracteristicas que comparte con la clase original, en el ejemplo del vehiculo se derivaron dos objetos :"carro" y "camion ", pero a su vez el objeto "vehiculo" se separa en "electrico " y "gasolina", todo teniendo en cuenta que partimos de nuestra clase base "vehiculo", 
+ya que esta contienen caracteristicas generales que pueden tener sus derivadas tales como: ruedas, volante , asientos , motor, ventanas, etc,
+
+# UML ( historia ):
 
 
 
