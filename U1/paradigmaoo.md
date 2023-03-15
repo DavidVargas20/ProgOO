@@ -43,7 +43,9 @@ el comportamiento de dicho sistema a su vez que permite analizar de mejor manera
 
  ![image.png](https://sites.google.com/a/cecyteg.edu.mx/desarrolla-sw-utilizando-poo/_/rsrc/1412205670359/uml/Workspace%201_001.jpg)
 
- 
+ ## Ejemplo de diagrama UML de un sistema:
+ ![image.png](https://ingsotfwarekarlacevallos.files.wordpress.com/2015/07/esta.png)
+
 
 
 
