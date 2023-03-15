@@ -5,5 +5,5 @@ Nombre: Nuñez Vargas David Ignacio
 
 Indice
 
-[paradigmaoo](U1/paradigmaoo.md)
+[1. paradigmaoo](U1/paradigmaoo.md)
 
