@@ -11,7 +11,7 @@ La programación orientada a objetos se centra en los objetos que los desarrolla
 en la lógica necesaria para manipularlos. Este enfoque de programación es adecuado para programas que son grandes, complejos
  y se actualizan o mantienen activamente.
  
- ![image.png](https://ejemplo.com/imagen.jpg)
+ ![image.png](https://edteam-media.s3.amazonaws.com/blogs/original/331bd7ad-97ea-424c-948b-8bb8cbc97f78.png)
 
 ### ¿Que es abstraccion?
 La abstracción consiste en aislar un elemento de su contexto o del resto de los elementos que lo acompañan.
