@@ -23,6 +23,11 @@ metodo o clase por ejemplo:
 En esta imagen se puede apreciar un ejemplo de encapsulamiento, el objeto esta encerrado con un circulo azul que da a entender
 que esta protegido pero a la vez este mismo puede interacutar y puede teenr funcionalidad de forma externa.
 
+# ¿Que es herencia?
+La herencia permite derivar un objeto a partir de otro, la clase de donde deriva la segunda clase se conoce como clase madre, superclase o clase base.
+esto permite generar nuevos objetos de forma jerargica que a su vez esos nuevos objetos comparten caracteristicas similares entre ellos.
+Ejemplo:
+![image.png](https://www.lifeder.com/wp-content/uploads/2020/04/Herencia-en-programaci%C3%B3n-Pluke-CC0-Creative-Commons-CC0-1.0-Universal-Public-Domain.jpg)
 
 
 
