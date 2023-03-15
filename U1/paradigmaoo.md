@@ -20,6 +20,9 @@ El encapsulamiento puede definirse como los datos e informacion que estan muy re
 metodo o clase por ejemplo:
 ![image.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/CPT-OOP-interfaces.svg/1200px-CPT-OOP-interfaces.svg.png)
 
+En esta imagen se puede apreciar un ejemplo de encapsulamiento, el objeto esta encerrado con un circulo azul que da a entender
+que esta protegido pero a la vez este mismo puede interacutar y puede teenr funcionalidad de forma externa.
+
 
 
 
