@@ -15,7 +15,11 @@ en la lógica necesaria para manipularlos. Este enfoque de programación es adec
 
 ### ¿Que es abstraccion?
 La abstracción consiste en aislar un elemento de su contexto o del resto de los elementos que lo acompañan.
-####
+#### ¿Que es encapsulamiento?
+El encapsulamiento puede definirse como los datos e informacion que estan muy relacionadas darles nombres y encapsularlas dentro de un
+metodo o clase por ejemplo:
+![image.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/CPT-OOP-interfaces.svg/1200px-CPT-OOP-interfaces.svg.png)
+
 
 
 
