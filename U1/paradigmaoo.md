@@ -1,4 +1,4 @@
-# paradigma en lenguajes de programacion.
+# Paradigma en lenguajes de programacion.
 Un paradigma de programación es una manera o estilo de programación de software. Existen diferentes formas de diseñar un lenguaje de 
 programación y varios modos de trabajar para obtener los resultados que necesitan los programadores.  Se trata de un conjunto de 
 métodos sistemáticos aplicables en todos los niveles del diseño de programas para resolver problemas computacionales.
@@ -14,7 +14,11 @@ en la lógica necesaria para manipularlos. Este enfoque de programación es adec
  ![image.png](https://edteam-media.s3.amazonaws.com/blogs/original/331bd7ad-97ea-424c-948b-8bb8cbc97f78.png)
 
 # ¿Que es abstraccion?
-La abstracción consiste en aislar un elemento de su contexto o del resto de los elementos que lo acompañan.
+La abstracción consiste en aislar un elemento de su contexto o del resto de los elementos que lo acompañan. 
+En programación, el término se refiere al énfasis en el "¿qué hace?" más que en el "¿cómo lo hace?"
+
+![image.png](https://lh5.googleusercontent.com/W8dmHZ6xD5pbNm8sww9iTEDsa8dLdv6LwathpGMSPt7CtetRTX82Eesib2BDgY3M-m1Hbmk7RDrI7fBmZIPsT3IITl-1yQrR1pkJdHZNhiXG9lS-QpA=w1200-h630-p-k-no-nu)
+
 # ¿Que es encapsulamiento?
 El encapsulamiento puede definirse como los datos e informacion que estan muy relacionadas darles nombres y encapsularlas dentro de un
 metodo o clase por ejemplo:
