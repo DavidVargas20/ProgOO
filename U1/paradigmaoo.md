@@ -43,9 +43,28 @@ el comportamiento de dicho sistema a su vez que permite analizar de mejor manera
 
  ![image.png](https://sites.google.com/a/cecyteg.edu.mx/desarrolla-sw-utilizando-poo/_/rsrc/1412205670359/uml/Workspace%201_001.jpg)
 
- ## Ejemplo de diagrama UML de un sistema:
+ ## Ejemplo de diagrama UML de un sistema de ventas:
  ![image.png](https://ingsotfwarekarlacevallos.files.wordpress.com/2015/07/esta.png)
 
+ # Herramientas de UML:
+
+ ### Lucidchart:
+
+ Es una herramienta muy completa; ya que no solamente podrás crear diagramas UML, sino múltiples diseños como: 
+ wireframes, canvas, redes de datos, entre otros. Adicionalmente cuenta con licencias gratuitas, de costo y académicas.
+
+ ### Diagrams:
+
+ Una de las peculiaridades que posee, es la capacidad de respaldar tus diagramas en diferentes fuentes coo: google drive, github, dropbox,one drive. 
+ Es una buenisima herramienta puedes crear infinidad de diagramas y/o diseños de: redes, negocios, software, infografias, iconos,etc  
+
+### Cacoo:
+
+Es una herramienta de diseño colaborativo. Es de costo y tiene su versión gratuita. Contribuye a la lluvia de ideas y mejora continua de productos. Permite trabajar con diseños de AWS, Visio y multiples integraciones como: Google drive, Adobe Creative Cloud y Confluence.
+
+# Diagrama de un sistema de compras:
+
+![image.png](https://github.com/DavidVargas20/alumno/blob/main/diagrama.drawio.png)
 
 
 
