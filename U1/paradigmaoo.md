@@ -10,6 +10,6 @@ en lugar de funciones y lógica. Un objeto se puede definir como un campo de dat
 La programación orientada a objetos se centra en los objetos que los desarrolladores quieren manipular en lugar de enfocarse 
 en la lógica necesaria para manipularlos. Este enfoque de programación es adecuado para programas que son grandes, complejos
  y se actualizan o mantienen activamente.
-![alt text](https://github.com/DavidVargas20/U1/paradigmaoo.md/desktop/poo.jpg)
+![alt text](https://github.com/DavidVargas20/U1/paradigmaoo.md/desktop/poo.jpg "Logo Title Text 1")
 
 
