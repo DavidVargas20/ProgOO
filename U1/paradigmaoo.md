@@ -27,14 +27,25 @@ que esta protegido pero a la vez este mismo puede interacutar y puede teenr func
 La herencia permite derivar un objeto a partir de otro, la clase de donde deriva la segunda clase se conoce como clase madre, superclase o clase base.
 esto permite generar nuevos objetos de forma jerarquica que a su vez esos nuevos objetos comparten caracteristicas similares entre ellos.
 
-Ejemplo:
+## Ejemplo:
 
 ![image.png](https://www.lifeder.com/wp-content/uploads/2020/04/Herencia-en-programaci%C3%B3n-Pluke-CC0-Creative-Commons-CC0-1.0-Universal-Public-Domain.jpg)
 
 En este ejemplo se muestra de mejor manera el como funciona la hernecia, se inicia de manea general la clase con sus atributos en este caso se tiene la idea de "vehiculo", de ahi se pueden derivar de otros tipos de vehiculos pero que a su vez tienen caracteristicas que comparte con la clase original, en el ejemplo del vehiculo se derivaron dos objetos :"carro" y "camion ", pero a su vez el objeto "vehiculo" se separa en "electrico " y "gasolina", todo teniendo en cuenta que partimos de nuestra clase base "vehiculo", 
-ya que esta contienen caracteristicas generales que pueden tener sus derivadas tales como: ruedas, volante , asientos , motor, ventanas, etc,
+ya que esta contienen caracteristicas generales  tales como: ruedas, volante , asientos , motor, ventanas, etc, esto de manera que se puedan crear mas objetos a base de ello.
 
 # UML ( historia ):
+El UML es la creación de Grady Booch, James Rumbaugh e Ivar Jacobson. “Los tres Amigos” como se apodaron estos tres grandes utilizaban metodologías diferentes para el diseño de software hasta que en los años 90 decidieron unirse y trabajar en conjunto en una solo metodología, el UML está compuesto pro diversos elementos gráficos que se combinan para conformar diagramas, con las mismas finalidades que es presentar diversas perspectivas de un sistema a las cuales se conoce como modelo , esto no solo es usado para representar algun tipo de sistema de sofware si no que tambien es utilizado en sistemas que no utilizen software en muchas empresas , observar de una manera mas visual
+el comportamiento de dicho sistema a su vez que permite analizar de mejor manera la estructura del mismo.
+
+
+ ## Ejemplo de un UML en (POO):
+
+ ![image.png](https://sites.google.com/a/cecyteg.edu.mx/desarrolla-sw-utilizando-poo/_/rsrc/1412205670359/uml/Workspace%201_001.jpg)
+
+ 
+
+
 
 
 
