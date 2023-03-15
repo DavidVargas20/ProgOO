@@ -10,7 +10,8 @@ en lugar de funciones y lógica. Un objeto se puede definir como un campo de dat
 La programación orientada a objetos se centra en los objetos que los desarrolladores quieren manipular en lugar de enfocarse 
 en la lógica necesaria para manipularlos. Este enfoque de programación es adecuado para programas que son grandes, complejos
  y se actualizan o mantienen activamente.
- [poo](https://edteam-media.s3.amazonaws.com/blogs/original/331bd7ad-97ea-424c-948b-8bb8cbc97f78.png/ "poo").
+ 
+ ![image.png](https://ejemplo.com/imagen.jpg)
 
 ### ¿Que es abstraccion?
 La abstracción consiste en aislar un elemento de su contexto o del resto de los elementos que lo acompañan.
