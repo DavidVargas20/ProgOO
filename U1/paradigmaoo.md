@@ -8,7 +8,7 @@ como, por ejemplo, Python o JavaScript, que son multiparadigmas.
 La programacion orientada a objetos es un modelo de programación informática que organiza el diseño de software en torno a datos u objetos, 
 en lugar de funciones y lógica. Un objeto se puede definir como un campo de datos que tiene atributos y comportamiento únicos.
 La programación orientada a objetos se centra en los objetos que los desarrolladores quieren manipular en lugar de enfocarse 
-en la lógica necesaria para manipularlos. Este enfoque de programación es adecuado para programas que son grandes, complejos
+en la lógica necesaria para manipularlos. Este enfoque de programación es adecuado para programas que son grandes, complejos.
  y se actualizan o mantienen activamente.
  
  ![image.png](https://edteam-media.s3.amazonaws.com/blogs/original/331bd7ad-97ea-424c-948b-8bb8cbc97f78.png)
